@@ -18,7 +18,7 @@ layout: default
 
 #### buuoj
 
-[刮开有奖](./刮开有奖)
+[刮开有奖](https://rongxiye.github.io/刮开有奖)
 
 
 
