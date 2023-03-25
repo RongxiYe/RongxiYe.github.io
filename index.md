@@ -18,7 +18,7 @@ layout: default
 
 #### buuoj
 
-[刮开有奖](docs/刮开有奖.md)
+[刮开有奖](_posts/刮开有奖.md)
 
 
 
