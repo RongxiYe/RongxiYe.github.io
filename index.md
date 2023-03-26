@@ -22,7 +22,9 @@ layout: default
 
 [刮开有奖](https://rongxiye.github.io/刮开有奖)
 
+[Java逆向解密](https://rongxiye.github.io/Java逆向解密)
 
+[简单注册器](https://rongxiye.github.io/简单注册器)
 
 
 
