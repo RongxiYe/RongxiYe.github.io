@@ -22,11 +22,11 @@ layout: default
 
 #### buuoj
 
-[刮开有奖](https://rongxiye.github.io/刮开有奖)           [[2019红帽杯]easyRE1](https://rongxiye.github.io/[2019红帽杯]easyRE1)
+[刮开有奖](https://rongxiye.github.io/刮开有奖)           [[2019红帽杯]easyRE1](https://rongxiye.github.io/2019红帽杯-easyRE1)
 
-[Java逆向解密](https://rongxiye.github.io/Java逆向解密)    [[ACTF新生赛2020]easyre](https://rongxiye.github.io/[ACTF新生赛2020]easyre)
+[Java逆向解密](https://rongxiye.github.io/Java逆向解密)    [[ACTF新生赛2020]easyre](https://rongxiye.github.io/ACTF新生赛2020-easyre)
 
-[简单注册器 ](https://rongxiye.github.io/简单注册器)      [[GWCTF 2019]pyre](https://rongxiye.github.io/[GWCTF 2019]pyre)
+[简单注册器 ](https://rongxiye.github.io/简单注册器)      [[GWCTF 2019]pyre](https://rongxiye.github.io/GWCTF 2019-pyre)
 
 
 
